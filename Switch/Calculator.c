@@ -188,3 +188,6 @@ int modulus(int a, int b) {
 double squareRoot(double a) {
     return sqrt(a);
 }
+
+
+// this code implements a simple calculator in C that can perform various mathematical operations such as addition, subtraction, multiplication, division, power, modulus, and square root. The program uses a switch statement to handle user input and perform the corresponding operation based on the user's choice. It also includes input validation to ensure that the user enters valid numbers and handles errors such as division by zero and square root of negative numbers.
